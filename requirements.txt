@@ -1,0 +1,3 @@
+scikit-learn==1.4.2
+numpy==1.26.4
+These are the key dependencies required for running the svd_pickle_demo.py script that uses scikit-learn's TruncatedSVD.
